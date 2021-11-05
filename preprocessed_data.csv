@@ -1,0 +1,21 @@
+ID,Name,Author,Genre,No of pages
+1,Wireless Communications and Networking,Walid Saad,Networking,295
+2,Fundamentals of Optical Networks and Components,Partha Pratim Sahu,Networking,389
+3,Wireless Device-to-Device Communications and Networks,Lingyang Song,Networking,623
+4,Pervasive Computing and Networking Editors,Mohammad S,Networking,346
+5,Machine Learning Hands-On for Developers and Technical Professionals,Jason Bell,Machine Learning,407
+6,Introduction to Machine Learning Second Edition,Ethem Alpaydm,Machine Learning,564
+7,Introduction to Machine Learning,Yves Kodratoff,Machine Learning,302
+8,Multi-Agent Machine Learning A Reinforcement approach,Howard M,Machine Learning,315
+9,Problem-Solving in Data Structures and Algorithms Using C++ First Edition,Hemant Jain,Programming,650
+10,The Complete Reference Java Seventh Edition,Robert Schildt,Programming,1057
+11,Computing Fundamentals & C Programming,E Bala Guruswamy,Programming,847
+12,Python Programming,Mark Luiz,Programming,794
+13,SQL Database Programming,Josephine Bosch,Database,241
+14,Concept of Database Management Systems Second Edition,Vijay Krishna Pallaw,Database,319
+15,Fundamentals of Database Management Systems Second Edition,Mark L. Gillenson,Database,416
+16,Multimedia Database Management Systems,B. Prabhakaran,Database,212
+17,The complete reference HTML and css,Thomas A powell,Web Development,790
+18,Web designing,M. Geetha,Web Development,592
+19,Bootstrap  responsive web developer,powell,Web Development,425
+20,Bootstrap,thomas,Web Development,321
